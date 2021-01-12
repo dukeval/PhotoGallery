@@ -1,0 +1,15 @@
+.imageSize {
+  position: relative;
+  width: 100%;
+  height: 98%;
+}
+
+.title {
+  padding-top: 20px;
+  text-align: center;
+  font: 2em bold;
+}
+
+.container-fluid {
+  text-align: center;
+}
